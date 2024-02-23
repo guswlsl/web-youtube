@@ -8,7 +8,6 @@ import { webdText } from '../data/webd'
 import { websiteText } from '../data/website'
 import { gsapText } from '../data/gsap'
 import { portfolioText } from '../data/portfolio'
-import { youtubeText } from '../data/youtube'
 import { developerText } from '../data/developer'
 import { todayText } from '../data/today'
 

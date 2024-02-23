@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { headerMenus, searchKeyword } from '../../data/header'
+import { headerMenus } from '../../data/header'
 import { Link, useLocation } from 'react-router-dom'
 
 const Menu = () => {
